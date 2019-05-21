@@ -31,7 +31,7 @@
   <h3>Make a plan</h3>
   <p>Think about what you would like to do in your next lucid dream, you could fly around and enjoy the scenery, speak to dream characters, practice a skill, or you could just pay attention to the dream and see what happens. Making this sort of plan can motivate you and help you stay lucid and centered in your next lucid dream, this is important because we can fall back into unconscious dreaming quite easily in a <abbr title="lucid dream">ld</abbr>. There are many distractions like false awakenings, social situations, habits, emotions, these can all distract us and make us forget we are dreaming. <br><br>
     
-In my first <abbr title="lucid dream">ld</abbr>, a dream character tried to convince me that I wasn't dreaming, it was very strange, but after arguing with him, I payed close attention to the details. I noticed that half of the place was bathed in sunshine and the other was dark and moonlit. This was the beginning of my obsession with lucid dreams, since then I have had many lucid dreams and astral projections. I hope this guide will help you have your first lucid dream. 
+In my first <abbr title="lucid dream">ld</abbr>, a dream character tried to convince me that I wasn't dreaming, it was very strange, but after arguing with him, I payed close attention to the details. I noticed that half of the place was bathed in sunshine and the other was dark and moonlit. This was the beginning of my obsession with lucid dreams, since then I have had many lucid dreams and astral projections. I hope this guide will help you have your first lucid dream.</p> 
 
 
 </body>  
