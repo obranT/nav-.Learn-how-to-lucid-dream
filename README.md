@@ -20,14 +20,14 @@
        <li>When you wake up, train yourself to not move. Movement distracts and wakes up the mind, making it hard to recall dreams</li>
        <li>Start a dream journal. Make a habit to write down dreams as soon as you remember them, this may be in the morning or even in the middle of the night, or after a nap.</li>
        <li>Fall asleep consciously, this is the hardest method but also the most powerful. Try to watch your body as it relaxes and falls asleep, this extra attention can transfer into your dreams or you may actually be able to maintain this consciousness directly into sleep. If you can pull this off, you may have an <b>astral projection</b>.</li>
-     </ul>
+       </ul> </p>
 <h3>Reality checks<h3>
 <p>Reality checks are simple checks to see if you are dreaming or awake, in dreams there are no rules, we can fly or pass through solid matter. We use this to our advantage by 'testing' reality throughout the day, this habit will eventually come up in dreams and will help us become <em>lucid</em>.<br> Some easy reality tests include:
   <ul>
        <li>Jump! In dreams there is no gravity, so many times, if you jump, you will not come back down or you may just float there.</li>
        <li>Look at a clock or writing. Matter in dreams is always changing, so small things like letters or objects can change, distort or even disappear as you look at them or look away and look back at them.</li>
        <li>Lights. If you see a light, try to turn it on or off, in dreams it will usually have interesting results.</li>
-     </ul>
+  </ul></p>
   <h3>Make a plan</h3>
   <p>Think about what you would like to do in your next lucid dream, you could fly around and enjoy the scenery, speak to dream characters, practice a skill, or you could just pay attention to the dream and see what happens. Making this sort of plan can motivate you and help you stay lucid and centered in your next lucid dream, this is important because we can fall back into unconscious dreaming quite easily in a <abbr title="lucid dream">ld</abbr>. There are many distractions like false awakenings, social situations, habits, emotions, these can all distract us and make us forget we are dreaming. <br><br>
     
