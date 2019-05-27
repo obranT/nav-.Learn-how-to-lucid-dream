@@ -41,9 +41,11 @@ In my first <abbr title="lucid dream">ld</abbr>, a dream character tried to conv
 
 <footer>
   <div class="navbar">
-    <a href="#learn" class="active">Learn how to lucid dream</a>
+    <a href="#learn" class="active">Home</a>
+     <a href="#stories">Learn how to lucid dream</a>
     <a href="#stories">Lucid dream stories</a>
     <a href="#nightmares">Control nightmares</a>
     <a href="#rem">Stages of sleep</a>
   </div> 
+  
 </footer>
