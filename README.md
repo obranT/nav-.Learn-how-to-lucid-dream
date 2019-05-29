@@ -14,6 +14,7 @@
   </header>
      <h3>Dream recall<h3>
        <!--add link to stages of sleep page-->
+     <img src="20190315_131749.jpg" alt="remember" height='450' width='850'>
      <p>Each night we go through <a>the stages of sleep<a> and we may or may not remember our dreams, sometimes I wake up and recall a long sequence of dreams and other times I remember nothing. This can be a problem because if we can't remember a lucid dream, well then, it is as if it never happened.<br>
        There are three ways we can deal with this problem:
      <ul>
@@ -24,6 +25,7 @@
        <p>(If you still have trouble with dream recall, try setting an alarm a few hours before you want to wake up, use this as a dream recall alarm which should wake you from REM sleep, making it easier to recall dreams.)</p>
         </p>
 <h3>Reality checks<h3>
+  <img src="20190315_131749.jpg" alt="unreal" height='450' width='850'>
 <p>Reality checks are simple checks to see if you are dreaming or awake, in dreams there are no rules, we can fly or pass through solid matter. We use this to our advantage by 'testing' reality throughout the day, this habit will eventually come up in dreams and will help us become <em>lucid</em>.<br> Some easy reality tests include:
   <ul>
        <li>Jump! In dreams there is no gravity, so many times, if you jump, you will not come back down or you may just float there.</li>
