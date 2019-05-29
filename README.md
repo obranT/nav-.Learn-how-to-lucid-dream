@@ -25,7 +25,7 @@
        <p>(If you still have trouble with dream recall, try setting an alarm a few hours before you want to wake up, use this as a dream recall alarm which should wake you from REM sleep, making it easier to recall dreams.)</p>
         </p>
 <h3>Reality checks<h3>
-  <img src="20190315_131749.jpg" alt="unreal" height='450' width='850'>
+  <img src="roping-moon-dream.jpg.480x0_q71_crop-scale.jpg" alt="unreal scene" height='450' width='850'>
 <p>Reality checks are simple checks to see if you are dreaming or awake, in dreams there are no rules, we can fly or pass through solid matter. We use this to our advantage by 'testing' reality throughout the day, this habit will eventually come up in dreams and will help us become <em>lucid</em>.<br> Some easy reality tests include:
   <ul>
        <li>Jump! In dreams there is no gravity, so many times, if you jump, you will not come back down or you may just float there.</li>
